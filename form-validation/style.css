@@ -5,7 +5,6 @@
     --success-color: #2ecc71;
     --error-color: #e74c3c;
 }
-
 body{
     font-family: 'Open Sans', sans-serif;
     display: flex;
